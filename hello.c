@@ -1,6 +1,6 @@
 /**
  * Author: Yico delgado
- *         ydelgado2@huskers.unl.edu
+ *         ydelgado2
  * Date: 2024/08/27
  *
  * A simple hello world program in C
